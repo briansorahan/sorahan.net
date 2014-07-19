@@ -1,0 +1,30 @@
+#+TITLE: Brian Sorahan
+#+AUTHOR: Brian Sorahan
+
+[[http://sorahan.net][Home]]
+
+I am a big supporter of Linux and FLOSS software development.
+
+I used to write lots of music with [[https://www.propellerheads.se/products/reason/][Propellerheads Reason]] (which is *a lot* of fun by the way).
+Some stuff that I wrote with Reason (and [[https://www.ableton.com/][Ableton Live]] and [[http://cycling74.com/products/max/][Max/MSP]]) can be found on [[https://soundcloud.com/briansorahan][Soundcloud]].
+
+Since about 2011 have been only using Linux to make music.
+Some of my favorite Linux applications are:
+1. [[http://chuck.cs.princeton.edu][ChucK]]
+2. [[http://supercollider.sourceforge.net/][SuperCollider]]
+3. [[http://ardour.org][Ardour]]
+4. [[http://jackaudio.org][JACK]]
+
+I am spending most of my limited free time right now on [[https://github.com/briansorahan/lightning.git][lightning]], which is
+still in its infancy, but will be a music application for Linux that will
+be easy enough to use that children (maybe 8 and older) can make simple
+music without reading any documentation.
+
+The inspiration for this project is the music composition tool
+that came with Mario Paint for the SNES. I had a *blast* with this tool when I was young.
+
+I also like to make field recordings with a [[http://pro.sony.com/bbsc/ssr/cat-audio/resource.latest.bbsccms-assets-cat-audio-latest-pcmd50.shtml][Sony PCMD50]].
+Most of these are available at [[https://freesound.org/people/wjoojoo][Freesound]].
+
+I used to work at [[http://haivision.com][Haivision]], but just started a new job with [[http://gospacecraft.com][SpaceCraft]].
+

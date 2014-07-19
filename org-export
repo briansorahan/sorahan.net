@@ -1,0 +1,16 @@
+#!/bin/bash
+
+function org_export {
+    local file="$1"; shift
+
+    emacs --batch --execute='(setq vc-follow-symlinks nil)' \
+        --visit="$file" --execute='(org-export-as-html-and-open nil)'
+}
+
+function main {
+    for file in *.org; do
+        org_export "$file"
+    done
+}
+
+main "$@"
