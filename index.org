@@ -2,6 +2,4 @@
 #+AUTHOR: Brian Sorahan
 #+OPTIONS: toc:nil
 
-I am a software developer and musical tinkerer currently living in Austin, TX.
-
 - [[http://sorahan.net/about.html][About]]

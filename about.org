@@ -1,7 +1,10 @@
 #+TITLE: Brian Sorahan
 #+AUTHOR: Brian Sorahan
+#+OPTIONS: toc:nil
 
-[[http://sorahan.net][Home]]
+- [[http://sorahan.net][Home]]
+
+I am a software developer and musical tinkerer currently living in Austin, TX.
 
 I am a big supporter of Linux and FLOSS software development.
 
