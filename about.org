@@ -9,7 +9,8 @@ I am a software developer and musical tinkerer currently living in Austin, TX.
 I am a big supporter of Linux and FLOSS software development.
 
 I used to write lots of music with [[https://www.propellerheads.se/products/reason/][Propellerheads Reason]] (which is *a lot* of fun by the way).
-Some stuff that I wrote with Reason (and [[https://www.ableton.com/][Ableton Live]] and [[http://cycling74.com/products/max/][Max/MSP]]) can be found on [[https://soundcloud.com/briansorahan][Soundcloud]].
+Some stuff that I wrote with Reason (and [[https://www.ableton.com/][Ableton Live]] and [[http://cycling74.com/products/max/][Max/MSP]]) can be found on [[https://soundcloud.com/briansorahan][Soundcloud]]
+and [[http://spoomusic.com][Spoo]].
 
 Since about 2011 have been only using Linux to make music.
 Some of my favorite Linux applications are:
