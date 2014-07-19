@@ -1,0 +1,19 @@
+#+TITLE: Brian Sorahan
+#+AUTHOR: Brian Sorahan
+
+I am a software developer and musical tinkerer currently living in Austin, TX.
+
+I am a big supporter of Linux and FLOSS software development.
+
+I used to write lots of music with Propellerheads Reason [fn:1] (which is *a lot* of fun by the way)
+but since about 2011 have been only using Linux to make music.
+
+** Software
+   - [[https://github.com/briansorahan/lightning.git][lightning]] :: Simple music software for Linux
+   - [[https://github.com/briansorahan/fun-js.git][fun-js]] :: My take on functional programming with javascript
+
+** Audio
+   - [[https://soundcloud.com/briansorahan][Soundcloud]] :: Music
+   - [[https://freesound.org/people/wjoojoo][Freesound]]  :: Field Recordings
+
+[fn:1] [[https://www.propellerheads.se/products/reason/][Propellerheads Reason]]
