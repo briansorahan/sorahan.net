@@ -1,5 +1,4 @@
 #+TITLE: Brian Sorahan
 #+AUTHOR: Brian Sorahan
-#+OPTIONS: toc:nil
 
 - [[http://sorahan.net/about.html][About]]
